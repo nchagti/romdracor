@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title n="Aul." type="work">Aulularia</title>
+        <title n="Aul.">Aulularia</title>
         <author>
           <persName xml:lang="en">Plautus</persName>
           <persName>
@@ -1703,7 +1703,7 @@ Added to repository.
           <sp who="#euclio">
             <speaker>Eucl.</speaker>
             <l part="M">
-              Quid 
+              Quid
               <abbr expan="comminatus es">comminatu's</abbr>
             </l>
             <lb ed="TLN" n="418"/>
@@ -2265,7 +2265,7 @@ Added to repository.
             <l>eodem modo servom ratem esse amanti ero aequom censeo,</l>
             <lb ed="TLN" n="598"/>
             <l>
-              ut &lt;eum&gt; toleret, ne pessum abeat tamquam 
+              ut &lt;eum&gt; toleret, ne pessum abeat tamquam
               <gap desc="* *"/>
               ]
             </l>
@@ -2840,7 +2840,7 @@ Added to repository.
             <speaker>Eucl.</speaker>
             <lb ed="TLN" n="740"/>
             <l n="10">
-              Cur id 
+              Cur id
               <abbr expan="ausus es">ausu's</abbr>
                facere, ut id quod non tuom esset tangeres?
             </l>
@@ -2951,7 +2951,7 @@ Added to repository.
             <speaker>Eucl.</speaker>
             <lb ed="TLN" n="763"/>
             <l>
-              Aulam auri, inquam, te reposco, quam tu 
+              Aulam auri, inquam, te reposco, quam tu
               <abbr expan="confessus es">confessu's</abbr>
                mihi
             </l>
@@ -3300,7 +3300,7 @@ Added to repository.
             <speaker>Lyc.</speaker>
             <lb ed="TLN" n="830"/>
             <l part="I">
-              Quod modo 
+              Quod modo
               <abbr expan="fassus es">fassu's</abbr>
                esse in arca.
             </l>
@@ -3333,7 +3333,7 @@ Added to repository.
             <l part="M">Vel hercle énica,</l>
             <lb ed="TLN" n="833"/>
             <l n="25">
-              numquam hinc feres a me 
+              numquam hinc feres a me
               <gap desc="* *"/>
             </l>
             <lb ed="TLN" n="834"/>
@@ -3350,7 +3350,7 @@ Added to repository.
           </cit>
           <cit n="2">
             <bibl>
-              Gel. 
+              Gel.
               <title>N.A.</title>
                6.9.6
             </bibl>

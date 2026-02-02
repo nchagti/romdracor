@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title n="Merc." type="work">Mercator</title>
+        <title n="Merc.">Mercator</title>
         <author>
           <persName xml:lang="en">Plautus</persName>
           <persName>
@@ -1520,7 +1520,7 @@ Added to repository.
             <speaker>Dem.</speaker>
             <lb ed="TLN" n="371"/>
             <l>
-              [Per mare ut 
+              [Per mare ut
               <abbr expan="vectus es">vectu's</abbr>
               , nunc oculi terram mirantur tui.
             </l>
@@ -2851,7 +2851,7 @@ Added to repository.
             <l part="M">Idem quod me vides,</l>
             <lb ed="TLN" n="622"/>
             <l n="35">
-              ut pereas. quin 
+              ut pereas. quin
               <abbr expan="percontatus es">percontatu's</abbr>
               , hominis quae facies foret
             </l>
@@ -3322,7 +3322,7 @@ Added to repository.
             <speaker>Dor.</speaker>
             <lb ed="TLN" n="726"/>
             <l part="I">
-              Scio, 
+              Scio,
               <abbr expan="innoxius es">innóxiu's</abbr>
               .
             </l>
@@ -3491,7 +3491,7 @@ Added to repository.
             <l part="M">Quid ais tu? etiamne haec illi tibi</l>
             <lb ed="TLN" n="752"/>
             <l>
-              iusserunt ferri, quos inter iudex 
+              iusserunt ferri, quos inter iudex
               <abbr expan="datus es">datu's</abbr>
               ?
             </l>
@@ -3524,7 +3524,7 @@ Added to repository.
           <sp who="#lysimachus">
             <speaker>Lys.</speaker>
             <l part="M">
-              At tu 
+              At tu
               <abbr expan="malus es">malu's</abbr>
               .
             </l>
@@ -3594,7 +3594,7 @@ Added to repository.
             <l part="M">Haec east.</l>
             <lb ed="TLN" n="767"/>
             <l part="I">
-              quid mihi 
+              quid mihi
               <abbr expan="molestus es">molestu's</abbr>
               ?
             </l>
@@ -4681,7 +4681,7 @@ Added to repository.
             <speaker>Eut.</speaker>
             <lb ed="TLN" n="976"/>
             <l n="15">
-              Propterea igitur tu 
+              Propterea igitur tu
               <abbr expan="mercatus es">mercatu's</abbr>
               , novos amator, vetus puer?
             </l>

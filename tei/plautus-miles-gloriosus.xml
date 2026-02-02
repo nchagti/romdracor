@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title n="Mil." type="work">Miles Gloriosus</title>
+        <title n="Mil.">Miles Gloriosus</title>
         <author>
           <persName xml:lang="en">Plautus</persName>
           <persName>
@@ -917,7 +917,7 @@ Added to repository.
           <sp who="#periplectomenus">
             <speaker>Per.</speaker>
             <l part="M">
-              Auden participare me quod 
+              Auden participare me quod
               <abbr expan="commentus es">commentu's</abbr>
               ?
             </l>
@@ -1151,7 +1151,7 @@ Added to repository.
             <speaker>Pal.</speaker>
             <lb ed="TLN" n="285"/>
             <l>
-              Edepol, Sceledre, homo 
+              Edepol, Sceledre, homo
               <abbr expan="sectatus es">sectatu's</abbr>
                nihili nequam bestiam.
             </l>
@@ -1345,7 +1345,7 @@ Added to repository.
           <sp who="#sceledrus">
             <speaker>Scel.</speaker>
             <l part="M">
-              Quia 
+              Quia
               <abbr expan="luscitiosus es">luscitiosu's</abbr>
               .
             </l>
@@ -1355,7 +1355,7 @@ Added to repository.
             <l part="M">Verbero, edepol tu quidem</l>
             <lb ed="TLN" n="323"/>
             <l>
-              caecus, non 
+              caecus, non
               <abbr expan="luscitiosus es">luscitiosu's</abbr>
               . nam illa quidem * domi.
             </l>
@@ -1791,7 +1791,7 @@ Added to repository.
             <l n="55">Ne tu edepol stultitia tua nos paene perdidisti:</l>
             <lb ed="TLN" n="409"/>
             <l>
-              dum te fidelem facere ero voluisti, 
+              dum te fidelem facere ero voluisti,
               <abbr expan="absumptus es">absumptu's</abbr>
                paene.
             </l>
@@ -1964,7 +1964,7 @@ Added to repository.
             <lb ed="TLN" n="438"/>
             <l>
               <foreign lang="greek">a)/dikos</foreign>
-               es tu, non 
+               es tu, non
               <foreign lang="greek">dikai/a</foreign>
               , et meo ero facis iniuriam.
             </l>
@@ -2181,7 +2181,7 @@ Added to repository.
           <sp who="#palaestrio">
             <speaker>Pal.</speaker>
             <l part="M">
-              Quia hanc attingere 
+              Quia hanc attingere
               <abbr expan="ausus es">ausu's</abbr>
                mulierem hinc ex proxumo.
             </l>
@@ -2301,7 +2301,7 @@ Added to repository.
             <l>quod meas confregisti imbricis et tegulas,</l>
             <lb ed="TLN" n="505"/>
             <l n="25">
-              ibi dum condignam te 
+              ibi dum condignam te
               <abbr expan="sectatus es">sectatu's</abbr>
                simiam,
             </l>
@@ -2577,7 +2577,7 @@ Added to repository.
             <l part="M">Bene me mones,</l>
             <lb ed="TLN" n="574"/>
             <l part="I">
-              ita facere certum est. sed satine 
+              ita facere certum est. sed satine
               <abbr expan="oratus es">oratu's</abbr>
               ?
             </l>
@@ -2952,7 +2952,7 @@ Added to repository.
             <l>tum opstetrix expostulavit mecum, parum missum sibi;</l>
             <lb ed="TLN" n="698"/>
             <l>
-              quid? nutrici non 
+              quid? nutrici non
               <abbr expan="missurus es">missuru's</abbr>
                quicquam, quae vernas alit?’
             </l>
@@ -3419,7 +3419,7 @@ Added to repository.
             <speaker>Pal.</speaker>
             <lb ed="TLN" n="824-825"/>
             <l>
-              Eho tu sceleste, qui illi 
+              Eho tu sceleste, qui illi
               <abbr expan="suppromus es">suppromu's</abbr>
               , eho —
             </l>
@@ -4130,7 +4130,7 @@ Added to repository.
           <sp who="#palaestrio">
             <speaker>Pal.</speaker>
             <l part="M">
-              Vah 
+              Vah
               <abbr expan="delicatus es">delicatu's</abbr>
               , quae te tamquam oculos amet.
             </l>
@@ -5382,7 +5382,7 @@ Added to repository.
             <speaker>Pal.</speaker>
             <lb ed="TLN" n="1227"/>
             <l part="I">
-              Vt tu 
+              Vt tu
               <abbr expan="inclitus es">inclitu's</abbr>
                apud múlieres.
             </l>
@@ -6416,7 +6416,7 @@ Added to repository.
           <sp who="#periplectomenus">
             <speaker>Per.</speaker>
             <l part="M">
-              Quor ire 
+              Quor ire
               <abbr expan="ausus es">ausu's</abbr>
               ? em tibi.
             </l>
@@ -6457,7 +6457,7 @@ Added to repository.
             <l>Iura te non nociturum esse hómini de hac re nemini,</l>
             <lb ed="TLN" n="1412"/>
             <l n="20">
-              quod tu hódie hic 
+              quod tu hódie hic
               <abbr expan="verberatus es">verberatu's</abbr>
                aut quod verberabere,
             </l>

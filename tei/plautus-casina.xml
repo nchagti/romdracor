@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title n="Cas." type="work">Casina</title>
+        <title n="Cas.">Casina</title>
         <author>
           <persName xml:lang="en">Plautus</persName>
           <persName>
@@ -899,7 +899,7 @@ Added to repository.
             <l>Té sene omniúm † senem néminem esse ignáviorem.</l>
             <lb ed="TLN" n="245"/>
             <l>
-              únde is, nihili? ubí fuisti? ubí 
+              únde is, nihili? ubí fuisti? ubí
               <abbr expan="lustratus es">lustratu's</abbr>
               ? úbi bibisti?
             </l>
@@ -1773,7 +1773,7 @@ Added to repository.
             <speaker>Ch.</speaker>
             <lb ed="TLN" n="416"/>
             <l part="I">
-              Iamne 
+              Iamne
               <abbr expan="mortuus es">mortuo's</abbr>
               ?
             </l>
@@ -3154,7 +3154,7 @@ Added to repository.
           <sp who="#olympio">
             <speaker>Ol.</speaker>
             <l part="M">
-              Haec res. etiámne adstas? enim véro 
+              Haec res. etiámne adstas? enim véro
               <foreign lang="greek">pra/gmata/ moi pare/xeis</foreign>
               .
             </l>
@@ -3163,7 +3163,7 @@ Added to repository.
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="729"/>
             <l>
-              Dabo tibi 
+              Dabo tibi
               <foreign lang="greek">me/ga kako/n</foreign>
               ,
             </l>
@@ -3200,7 +3200,7 @@ Added to repository.
           <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">
-              Cuius tú 
+              Cuius tú
               <abbr expan="servus es">servo's</abbr>
               .
             </l>
@@ -3527,7 +3527,7 @@ Added to repository.
           <sp who="#lysidamus">
             <speaker>L.</speaker>
             <l part="M">
-              Num me 
+              Num me
               <abbr expan="expertus es">expertu's</abbr>
                uspiam?
             </l>

@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title n="Pers." type="work">Persa</title>
+        <title n="Pers.">Persa</title>
         <author>
           <persName xml:lang="en">Plautus</persName>
           <persName>
@@ -821,7 +821,7 @@ Added to repository.
           <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">
-              Hoc, si 
+              Hoc, si
               <abbr expan="facturus es">facturu's</abbr>
               , face.
             </l>
@@ -2249,7 +2249,7 @@ Added to repository.
             <speaker>Vir.</speaker>
             <lb ed="TLN" n="397"/>
             <l>
-              Quin tu me ducis, si quo 
+              Quin tu me ducis, si quo
               <abbr expan="ducturus es">ducturu's</abbr>
               , pater?
             </l>
@@ -2318,7 +2318,7 @@ Added to repository.
             <l>non mihi censebas copiam argenti fore,</l>
             <lb ed="TLN" n="416"/>
             <l>
-              qui nisi iurato mihi nil 
+              qui nisi iurato mihi nil
               <abbr expan="ausus es">ausu's</abbr>
                credere?
             </l>
@@ -2493,7 +2493,7 @@ Added to repository.
           <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">
-              Euge, euge, 
+              Euge, euge,
               <abbr expan="exornatus es">exornatu's</abbr>
                basilice;
             </l>
@@ -2581,7 +2581,7 @@ Added to repository.
           <sp who="#toxilus">
             <speaker>T.</speaker>
             <l part="M">
-              Iam liberta 
+              Iam liberta
               <abbr expan="auctus es">auctu's</abbr>
               ?
             </l>
@@ -3593,7 +3593,7 @@ Added to repository.
           <sp who="#toxilus">
             <speaker>T.</speaker>
             <l part="M">
-              Eu, 
+              Eu,
               <abbr expan="praedatus es">praedatu's</abbr>
                probe.
             </l>

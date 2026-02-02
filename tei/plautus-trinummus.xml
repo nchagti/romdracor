@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title n="Trin." type="work">Trinummus</title>
+        <title n="Trin.">Trinummus</title>
         <author>
           <persName xml:lang="en">Plautus</persName>
           <persName>
@@ -376,7 +376,7 @@ Added to repository.
             <speaker>Cal.</speaker>
             <lb ed="TLN" n="63"/>
             <l n="25">
-              Habeas ut 
+              Habeas ut
               <abbr expan="nanctus es">nanctu's</abbr>
               : nota mala res optumast.
             </l>
@@ -860,7 +860,7 @@ Added to repository.
             <speaker>Cal.</speaker>
             <lb ed="TLN" n="198"/>
             <l part="I">
-              Numquid, prius quam abeo, me 
+              Numquid, prius quam abeo, me
               <abbr expan="rogaturus es">rogaturu's</abbr>
               ?—
             </l>
@@ -1015,15 +1015,15 @@ Added to repository.
             <l>neque eúm sibi amicum vólunt dici.</l>
             <lb ed="TLN" n="263"/>
             <l n="45">
-              millé modis, Amor, 
+              millé modis, Amor,
               <abbr expan="ignorandus es">ignórandu's</abbr>
               ,
             </l>
             <lb ed="TLN" n="264"/>
             <l>
-              procul 
+              procul
               <abbr expan="abhibendus es">abhibendu's</abbr>
-               atque 
+               atque
               <abbr expan="abstandus es">abstandu's</abbr>
               ,
             </l>
@@ -1584,7 +1584,7 @@ Added to repository.
             <speaker>Stas.</speaker>
             <lb ed="TLN" n="419"/>
             <l>
-              Ratio quidem hercle apparet: argentum 
+              Ratio quidem hercle apparet: argentum
               <foreign lang="greek">oi)/xetai</foreign>
               .
             </l>
@@ -2662,7 +2662,7 @@ Added to repository.
             <speaker>Stas.</speaker>
             <lb ed="TLN" n="705"/>
             <l>
-              Non enim póssum quin exclamem euge. euge, Lysiteles, 
+              Non enim póssum quin exclamem euge. euge, Lysiteles,
               <foreign lang="greek">pa/lin</foreign>
               .
             </l>
@@ -2697,7 +2697,7 @@ Added to repository.
             <l>si mihi tua soror, ut ego aequom censeo, ita nuptum datur,</l>
             <lb ed="TLN" n="714"/>
             <l>
-              sine dote, neque tu hinc 
+              sine dote, neque tu hinc
               <abbr expan="abiturus es">abituru's</abbr>
               , quod meum erit id erit tuom;
             </l>
@@ -3412,7 +3412,7 @@ Added to repository.
             <speaker>Charm.</speaker>
             <lb ed="TLN" n="912"/>
             <l part="I">
-              Iam 
+              Iam
               <abbr expan="recommentatus es">recommentatu's</abbr>
                nomen?
             </l>
@@ -3724,7 +3724,7 @@ Added to repository.
             <speaker>Ch.</speaker>
             <lb ed="TLN" n="969"/>
             <l part="I">
-              Quod a me te accepisse 
+              Quod a me te accepisse
               <abbr expan="fassus es">fassu's</abbr>
               .
             </l>
@@ -3765,7 +3765,7 @@ Added to repository.
             <l>nimis argute óbrepsisti in eapse occasiuncula:</l>
             <lb ed="TLN" n="975"/>
             <l n="135">
-              postquam ego me aurum ferre dixi, post tu 
+              postquam ego me aurum ferre dixi, post tu
               <abbr expan="factus es">factu's</abbr>
                Charmides;
             </l>
@@ -3786,7 +3786,7 @@ Added to repository.
             <l>dúm ille ne sis quem ego esse nolo, sis mea caúsa qui lubet.</l>
             <lb ed="TLN" n="980"/>
             <l n="140">
-              prius non is eras quí eras: nunc is 
+              prius non is eras quí eras: nunc is
               <abbr expan="factus es">factu's</abbr>
                qui tum non eras.
             </l>
@@ -4659,7 +4659,7 @@ Added to repository.
           <sp who="#charmides">
             <speaker>Charm.</speaker>
             <l part="M">
-              Meum corrumpi quia 
+              Meum corrumpi quia
               <abbr expan="perpessus es">perpessu's</abbr>
                filium.
             </l>

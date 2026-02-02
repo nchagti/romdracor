@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title n="Rud." type="work">Rudens</title>
+        <title n="Rud.">Rudens</title>
         <author>
           <persName xml:lang="en">Plautus</persName>
           <persName>
@@ -3318,7 +3318,7 @@ Added to repository.
             <l>Etiamne in ara tunc sedebant mulieres,</l>
             <lb ed="TLN" n="847"/>
             <l part="I">
-              quom ad me 
+              quom ad me
               <abbr expan="profectus es">profectu's</abbr>
                ire?
             </l>
@@ -3449,7 +3449,7 @@ Added to repository.
           <sp who="#charmides">
             <speaker>Charm.</speaker>
             <l part="M">
-              Vt 
+              Vt
               <abbr expan="nanctus es">nanctu's</abbr>
               , habe.
             </l>
@@ -4791,7 +4791,7 @@ Added to repository.
           <sp who="#trachalio">
             <speaker>Trach.</speaker>
             <l part="M">
-              Edepol haud te órat, nam tu 
+              Edepol haud te órat, nam tu
               <abbr expan="iniurius es">iniuriu's</abbr>
               .
             </l>
@@ -5257,7 +5257,7 @@ Added to repository.
             <speaker>Daem.</speaker>
             <lb ed="TLN" n="1254"/>
             <l>
-              Abi intro, ne 
+              Abi intro, ne
               <abbr expan="molestus es">molestu's</abbr>
               , linguae tempera.
             </l>
@@ -6052,7 +6052,7 @@ Added to repository.
           <sp who="#gripus">
             <speaker>Grip.</speaker>
             <l part="M">
-              Iam te 
+              Iam te
               <abbr expan="ratus es">ratu's</abbr>
             </l>
             <lb ed="TLN" n="1387"/>

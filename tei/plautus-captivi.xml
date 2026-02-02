@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title n="Capt." type="work">Captivi</title>
+        <title n="Capt.">Captivi</title>
         <author>
           <persName xml:lang="en">Plautus</persName>
           <persName>
@@ -560,7 +560,7 @@ Added to repository.
             <speaker>Heg.</speaker>
             <lb ed="TLN" n="154"/>
             <l n="45">
-              Nullumne interea 
+              Nullumne interea
               <abbr expan="nactus es">nactu's</abbr>
               , qui posset tibi
             </l>
@@ -655,7 +655,7 @@ Added to repository.
             <l>Profundum vendis tu quidem, haud fundum, mihi.</l>
             <lb ed="TLN" n="183"/>
             <l part="I">
-              sed si 
+              sed si
               <abbr expan="venturus es">venturu's</abbr>
               , temperi.
             </l>
@@ -1989,7 +1989,7 @@ Added to repository.
             <speaker>Tynd.</speaker>
             <lb ed="TLN" n="568"/>
             <l>
-              Tu énim 
+              Tu énim
               <abbr expan="repertus es">repertu's</abbr>
               , Philocratem qui superes veriverbio.
             </l>
@@ -1998,7 +1998,7 @@ Added to repository.
             <speaker>Arist.</speaker>
             <lb ed="TLN" n="569"/>
             <l>
-              Pol ego ut rem video, tu 
+              Pol ego ut rem video, tu
               <abbr expan="inventus es">inventu's</abbr>
               , vera vanitudine
             </l>
@@ -3220,7 +3220,7 @@ Added to repository.
           <sp who="#ergasilus">
             <speaker>Erg.</speaker>
             <l part="M">
-              Credo, 
+              Credo,
               <abbr expan="consuetus es">consuetu's</abbr>
                puer.
             </l>
@@ -3241,7 +3241,7 @@ Added to repository.
           <sp who="#hegio">
             <speaker>Heg.</speaker>
             <l part="M">
-              Abi, 
+              Abi,
               <abbr expan="stultus es">stultu's</abbr>
               , sero post tempus venis.
             </l>
@@ -3548,7 +3548,7 @@ Added to repository.
             <l>Philocrates, numquam referre gratiam possim satis,</l>
             <lb ed="TLN" n="933"/>
             <l part="I">
-              proinde ut tu 
+              proinde ut tu
               <abbr expan="promeritus es">promeritu's</abbr>
                de me et filio.
             </l>
@@ -3684,7 +3684,7 @@ Added to repository.
             <speaker>Heg.</speaker>
             <lb ed="TLN" n="965"/>
             <l>
-              Satis 
+              Satis
               <abbr expan="facundus es">facundu's</abbr>
               . sed iam fieri dicta compendi volo.
             </l>

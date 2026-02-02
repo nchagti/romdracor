@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title n="Amph." type="work">Amphitruo</title>
+        <title n="Amph.">Amphitruo</title>
         <author>
           <persName xml:lang="en">Plautus</persName>
           <persName>
@@ -939,7 +939,7 @@ Added to repository.
             <speaker>Sos.</speaker>
             <lb ed="TLN" n="324"/>
             <l>
-              Si in me 
+              Si in me
               <abbr expan="exerciturus es">exercituru's</abbr>
               , quaeso in parietem ut primum domes.
             </l>
@@ -1263,7 +1263,7 @@ Added to repository.
             <l part="M">Ergo istoc magis,</l>
             <lb ed="TLN" n="379"/>
             <l>
-              quia 
+              quia
               <abbr expan="vaniloquus es">vaniloquo's</abbr>
               , vapulabis: ego sum, non tu, Sosia.
             </l>
@@ -1441,7 +1441,7 @@ Added to repository.
             <l part="M">Quin quae dixisti modo</l>
             <lb ed="TLN" n="411"/>
             <l>
-              omnia 
+              omnia
               <abbr expan="ementitus es">ementitu's</abbr>
               : equidem Sosia Amphitruonis sum.
             </l>
@@ -3054,7 +3054,7 @@ Added to repository.
             <l>tu qui quae facta infitiare; quem égo iam hic convincam palam.</l>
             <lb ed="TLN" n="780"/>
             <l n="150" part="I">
-              estne haec patera, qua 
+              estne haec patera, qua
               <abbr expan="donatus es">donatu's</abbr>
                illi?
             </l>

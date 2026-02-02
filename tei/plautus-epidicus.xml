@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title n="Epid." type="work">Epidicus</title>
+        <title n="Epid.">Epidicus</title>
         <author>
           <persName xml:lang="en">Plautus</persName>
           <persName>
@@ -1598,7 +1598,7 @@ Added to repository.
           <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">
-              Tum tu igitur calide quidquid 
+              Tum tu igitur calide quidquid
               <abbr expan="acturus es">acturu's</abbr>
                age.
             </l>
@@ -2712,7 +2712,7 @@ Added to repository.
           <sp who="#philippa">
             <speaker>Phil.</speaker>
             <l part="M">
-              Inique 
+              Inique
               <abbr expan="iniurius es">iniuriu's</abbr>
               .
             </l>
@@ -3166,7 +3166,7 @@ Added to repository.
             <l part="M">Siquidem istius gratia</l>
             <lb ed="TLN" n="630"/>
             <l>
-              id 
+              id
               <abbr expan="remoratus es">remoratu's</abbr>
                quod ista voluit, nimium advenisti cito.
             </l>
@@ -3539,7 +3539,7 @@ Added to repository.
             <speaker>Per.</speaker>
             <lb ed="TLN" n="697"/>
             <l>
-              Qua fiducia 
+              Qua fiducia
               <abbr expan="ausus es">ausu's</abbr>
                primum, quae emptast nudiustertius,
             </l>
@@ -3619,7 +3619,7 @@ Added to repository.
             <speaker>Per.</speaker>
             <lb ed="TLN" n="710"/>
             <l n="45" part="I">
-              Quor dare 
+              Quor dare
               <abbr expan="ausus es">ausu's</abbr>
               ?
             </l>

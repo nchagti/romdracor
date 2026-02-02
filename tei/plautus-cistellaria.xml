@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title n="Cist." type="work">Cistellaria</title>
+        <title n="Cist.">Cistellaria</title>
         <author>
           <persName xml:lang="en">Plautus</persName>
           <persName>
@@ -984,7 +984,7 @@ Added to repository.
             <speaker>Serv.</speaker>
             <lb ed="TLN" n="248"/>
             <l>
-              Ob istuc unum verbum 
+              Ob istuc unum verbum
               <abbr expan="dignus es">dignu's</abbr>
               , deciens qui furcam feras.
             </l>
@@ -1100,7 +1100,7 @@ Added to repository.
             <l n="70">multos cum multis? haec tu pervorsario</l>
             <lb ed="TLN" n="295"/>
             <l part="I">
-              mihi 
+              mihi
               <abbr expan="fabulatus es">fabulatu's</abbr>
               .
             </l>
@@ -1624,7 +1624,7 @@ Added to repository.
             <speaker>Mel.</speaker>
             <lb ed="TLN" n="492"/>
             <l n="180">
-              Eo 
+              Eo
               <abbr expan="facetus es">facetu's</abbr>
                quia tibi aliast sponsa locuples Lemnia.
             </l>

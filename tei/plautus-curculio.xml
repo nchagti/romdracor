@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title n="Curc." type="work">Curculio</title>
+        <title n="Curc.">Curculio</title>
         <author>
           <persName xml:lang="en">Plautus</persName>
           <persName>
@@ -504,7 +504,7 @@ Added to repository.
           <sp who="#palinurus">
             <speaker>Pal.</speaker>
             <l part="M">
-              Quid 
+              Quid
               <abbr expan="facturus es">facturu's</abbr>
               ?
             </l>
@@ -634,7 +634,7 @@ Added to repository.
             <l>tú crocinum et casia es, tu télinum,</l>
             <lb ed="TLN" n="104"/>
             <l>
-              nam ubi tú 
+              nam ubi tú
               <abbr expan="profusus es">profusu's</abbr>
               , íbi ego me pérvelim sepultam.
             </l>
@@ -952,7 +952,7 @@ Added to repository.
             <speaker>Planesium</speaker>
             <lb ed="TLN" n="162"/>
             <l n="5">
-              Vbi tu es, qui me 
+              Vbi tu es, qui me
               <abbr expan="convadatus es">convadatu's</abbr>
                Veneriis vadimoniis?
             </l>
@@ -1008,7 +1008,7 @@ Added to repository.
           <sp who="#phaedromus">
             <speaker>Phaed.</speaker>
             <l part="M">
-              Male mi 
+              Male mi
               <abbr expan="morigerus es">morigeru's</abbr>
               , tace.
             </l>
@@ -1981,7 +1981,7 @@ Added to repository.
             <l part="M">Dic mihi,</l>
             <lb ed="TLN" n="407"/>
             <l part="I">
-              quid eum nunc quaeris? aut 
+              quid eum nunc quaeris? aut
               <abbr expan="cuiatis es">cuiati's</abbr>
               ?
             </l>
@@ -2020,7 +2020,7 @@ Added to repository.
             <speaker>Lyc.</speaker>
             <lb ed="TLN" n="414"/>
             <l>
-              Summane, salve. qui 
+              Summane, salve. qui
               <abbr expan="Summanus es">Summanu's</abbr>
               ? fac sciam.
             </l>

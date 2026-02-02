@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title n="Bacch." type="work">Bacchides</title>
+        <title n="Bacch.">Bacchides</title>
         <author>
           <persName xml:lang="en">Plautus</persName>
           <persName>
@@ -951,7 +951,7 @@ Added to repository.
             <l>compendium edepol haud aetati optabile</l>
             <lb ed="TLN" n="160"/>
             <l>
-              fecisti, cum istanc 
+              fecisti, cum istanc
               <abbr expan="nactus es">nactu's</abbr>
                inpudentiam.
             </l>
@@ -2635,7 +2635,7 @@ Added to repository.
             <speaker>Pist.</speaker>
             <lb ed="TLN" n="602"/>
             <l n="20">
-              Nequam esse oportet cui tu integumentum 
+              Nequam esse oportet cui tu integumentum
               <abbr expan="improbus es">improbu's</abbr>
               .
             </l>
@@ -3955,7 +3955,7 @@ Added to repository.
             <l>Quid nunc, impure? numquid debetur tibi?</l>
             <lb ed="TLN" n="885"/>
             <l>
-              quid illí 
+              quid illí
               <abbr expan="molestus es">molestu's</abbr>
               ? quid illum morte territas?
             </l>

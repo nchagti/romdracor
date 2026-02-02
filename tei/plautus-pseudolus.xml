@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title n="Pseud." type="work">Pseudolus</title>
+        <title n="Pseud.">Pseudolus</title>
         <author>
           <persName xml:lang="en">Plautus</persName>
           <persName>
@@ -922,7 +922,7 @@ Added to repository.
             <speaker>Cal.</speaker>
             <lb ed="TLN" n="208"/>
             <l>
-              Male 
+              Male
               <abbr expan="morigerus es">mórigeru's</abbr>
                mihi, quóm sermoni huius óbsonas.
             </l>
@@ -1113,7 +1113,7 @@ Added to repository.
             <l>Hódie nate, heus, hódie nate, tíbi ego dico, heus, hódie nate,</l>
             <lb ed="TLN" n="244"/>
             <l>
-              redi ét respice ád nos. tamétsi 
+              redi ét respice ád nos. tamétsi
               <abbr expan="occupatus es">occupátu's</abbr>
               ,
             </l>
@@ -1288,7 +1288,7 @@ Added to repository.
             <l n="45">Di te deaeque ament vel huius arbitratu vel meo,</l>
             <lb ed="TLN" n="272"/>
             <l>
-              vel, si 
+              vel, si
               <abbr expan="dignus es">dignu's</abbr>
                alio pacto, neque ament nec faciant bene.
             </l>
@@ -1686,7 +1686,7 @@ Added to repository.
             <speaker>Cal.</speaker>
             <lb ed="TLN" n="348"/>
             <l part="I">
-              Cur id 
+              Cur id
               <abbr expan="ausus es">ausu's</abbr>
                facere?
             </l>
@@ -2037,7 +2037,7 @@ Added to repository.
             <l>postquam illic hinc abiit, tu astas solus, Pseudole.</l>
             <lb ed="TLN" n="395"/>
             <l>
-            quid nunc 
+            quid nunc
             <abbr expan="acturus es">acturu's</abbr>
             , postquam erili filio
           </l>
@@ -2910,7 +2910,7 @@ Added to repository.
             <l part="M">Sum. sed ubi tu me novisti gentium</l>
             <lb ed="TLN" n="620"/>
             <l>
-              aut vidisti aut 
+              aut vidisti aut
               <abbr expan="conlocutus es">conlocutu's</abbr>
               ? nam equidem Athenas antidhac
             </l>
@@ -2973,7 +2973,7 @@ Added to repository.
             <speaker>Ps.</speaker>
             <lb ed="TLN" n="631"/>
             <l>
-              Vae tibi, tu 
+              Vae tibi, tu
               <abbr expan="inventus es">inventu's</abbr>
                vero, meam qui furcilles fidem.
             </l>
@@ -3086,7 +3086,7 @@ Added to repository.
             <l part="M">Apage te, Harpax, hau places;</l>
             <lb ed="TLN" n="654"/>
             <l n="60">
-              huc quidem hercle haud ibis intro, ne quid 
+              huc quidem hercle haud ibis intro, ne quid
               <foreign lang="greek">a(/rpac</foreign>
                feceris.
             </l>
@@ -3358,7 +3358,7 @@ Added to repository.
           <sp who="#pseudolus">
             <speaker>Ps.</speaker>
             <l part="M">
-              Euge. iam 
+              Euge. iam
               <foreign lang="greek">xa/rin tou/tw| poiou=.</foreign>
             </l>
           </sp>
@@ -4225,7 +4225,7 @@ Added to repository.
             <l>Tantúm tibi boni di immórtales duint quántum tu tibi óptes;</l>
             <lb ed="TLN" n="937"/>
             <l>
-              nam si éxoptem, quantúm 
+              nam si éxoptem, quantúm
               <abbr expan="dignus es">dignu's</abbr>
                tantúm dent, minus nihiló sit.
             </l>
@@ -4490,7 +4490,7 @@ Added to repository.
           <sp who="#simia">
             <speaker>Sim.</speaker>
             <l part="M">
-              Vt 
+              Vt
               <abbr expan="vestitus es">vestitu's</abbr>
               , es perfossor parietum.
             </l>
@@ -4618,7 +4618,7 @@ Added to repository.
           <sp who="#simia">
             <speaker>Sim.</speaker>
             <l part="M">
-              Ego sum, atque ipse 
+              Ego sum, atque ipse
               <foreign lang="greek">a(/rpac</foreign>
                quidem.
             </l>
@@ -5054,7 +5054,7 @@ Added to repository.
             <speaker>Sim.</speaker>
             <lb ed="TLN" n="1130"/>
             <l>
-              Malúm quod tibí di dabúnt, sic 
+              Malúm quod tibí di dabúnt, sic
               <abbr expan="scelestus es">sceléstu's</abbr>
               .
             </l>
@@ -5364,7 +5364,7 @@ Added to repository.
             <speaker>Bal.</speaker>
             <lb ed="TLN" n="1177"/>
             <l>
-              Quid ais? tune etiam cubitare 
+              Quid ais? tune etiam cubitare
               <abbr expan="solitus es">solitu's</abbr>
                in cunis puer?
             </l>

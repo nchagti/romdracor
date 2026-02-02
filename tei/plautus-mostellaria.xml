@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title n="Most." type="work">Mostellaria</title>
+        <title n="Most.">Mostellaria</title>
         <author>
           <persName xml:lang="en">Plautus</persName>
           <persName>
@@ -289,7 +289,7 @@ Added to repository.
             <l>germana inluvies, rusticus, hircus, hara suis,</l>
             <lb ed="TLN" n="41"/>
             <l n="40" part="I">
-              caeno 
+              caeno
               <foreign lang="greek">koprw\n</foreign>
                commixte.
             </l>
@@ -309,7 +309,7 @@ Added to repository.
             <l n="45">sine me aliato fungi fortunas meas.</l>
             <lb ed="TLN" n="48"/>
             <l>
-              tu 
+              tu
               <abbr expan="fortunatus es">fortunatu's</abbr>
               , ego miser: patiunda sunt.
             </l>
@@ -2967,7 +2967,7 @@ Added to repository.
             <speaker>Th.</speaker>
             <lb ed="TLN" n="667"/>
             <l part="I">
-              Quid igitur? iam 
+              Quid igitur? iam
               <abbr expan="commentus es">commentu's</abbr>
               ?
             </l>
@@ -2988,7 +2988,7 @@ Added to repository.
             <speaker>Tr.</speaker>
             <lb ed="TLN" n="671"/>
             <l>
-              Siquidém tu argentum 
+              Siquidém tu argentum
               <abbr expan="redditurus es">reddituru's</abbr>
               , tum bona,
             </l>
@@ -4235,7 +4235,7 @@ Added to repository.
           <sp who="#phaniscus">
             <speaker>Phan.</speaker>
             <l part="M">
-              Nisi forte 
+              Nisi forte
               <abbr expan="factus es">factu's</abbr>
                praefectus novos,
             </l>
@@ -4276,7 +4276,7 @@ Added to repository.
             <speaker>Th.</speaker>
             <lb ed="TLN" n="947"/>
             <l n="15" part="I">
-              Puere, nimium 
+              Puere, nimium
               <abbr expan="delicatus es">delicatu's</abbr>
               .
             </l>
@@ -4342,7 +4342,7 @@ Added to repository.
           <sp who="#theopropides">
             <speaker>Th.</speaker>
             <l part="M">
-              Tu ne 
+              Tu ne
               <abbr expan="molestus es">molestu's</abbr>
               . sine me cum puero loqui.
             </l>
@@ -4530,7 +4530,7 @@ Added to repository.
           <sp who="#phaniscus">
             <speaker>Phan.</speaker>
             <l part="M">
-              Vana vellem. patris 
+              Vana vellem. patris
               <abbr expan="amicus es">amicu's</abbr>
                videlicet.
             </l>

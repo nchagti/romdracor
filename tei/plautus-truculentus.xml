@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title n="Truc." type="work">Truculentus</title>
+        <title n="Truc.">Truculentus</title>
         <author>
           <persName xml:lang="en">Plautus</persName>
           <persName>
@@ -624,7 +624,7 @@ Added to repository.
           <sp who="#astaphium">
             <speaker>Ast.</speaker>
             <l part="M">
-              Em istoc pol tu 
+              Em istoc pol tu
               <abbr expan="otiosus es">otiosu's</abbr>
               ,
             </l>
@@ -1318,7 +1318,7 @@ Added to repository.
             <speaker>Ast.</speaker>
             <lb ed="TLN" n="333"/>
             <l>
-              Quidnam revocabas? 
+              Quidnam revocabas?
               <abbr expan="improbus es">improbu's</abbr>
                nihilique homo:
             </l>
@@ -1382,7 +1382,7 @@ Added to repository.
             <speaker>Phron.</speaker>
             <lb ed="TLN" n="355"/>
             <l>
-              Quid tam 
+              Quid tam
               <abbr expan="inficetus es">inficetu's</abbr>
               , Lemno adveniens qui tuae
             </l>
@@ -2138,7 +2138,7 @@ Added to repository.
             <l>&lt;ne&gt; apud nos &lt;non&gt; mundissimum sit;</l>
             <lb ed="TLN" n="558"/>
             <l>
-              puras sibi esse volt aedis: domi quidquid habet, eicitur 
+              puras sibi esse volt aedis: domi quidquid habet, eicitur
               <foreign lang="greek">e)/cw</foreign>
               .
             </l>
@@ -2304,7 +2304,7 @@ Added to repository.
             <l>Nunc égo meos animos víolentos meamque íram ex pectore iám promam.</l>
             <lb ed="TLN" n="604-605"/>
             <l part="I">
-              loquere: únde es? cuius es? cúr 
+              loquere: únde es? cuius es? cúr
               <abbr expan="ausus es">ausu's</abbr>
                mi inclémenter dicére?
             </l>
@@ -2378,7 +2378,7 @@ Added to repository.
             <speaker>Cyam.</speaker>
             <lb ed="TLN" n="619"/>
             <l>
-              Quíd nunc ergo hic 
+              Quíd nunc ergo hic
               <abbr expan="odiosus es">ódiosu's</abbr>
               , confessus omnino reus?
             </l>
@@ -3345,7 +3345,7 @@ Added to repository.
             <l>nam haud mansisti, dum ego darem illam: tute sumpsisti tibi.</l>
             <lb ed="TLN" n="844"/>
             <l n="70">
-              nunc habeas ut 
+              nunc habeas ut
               <abbr expan="nactus es">nactu's</abbr>
               . verum hoc ego te multabo bolo:
             </l>
@@ -3438,7 +3438,7 @@ Added to repository.
             <l>et tibi uxorem ducendam, [iam] esse alibi iám animum tuom</l>
             <lb ed="TLN" n="867"/>
             <l n="15">
-              et &lt;me&gt; quasi pro derelicta: scio, 
+              et &lt;me&gt; quasi pro derelicta: scio,
               <abbr expan="abiturus es">abituru's</abbr>
               . sed tamen
             </l>
@@ -3669,7 +3669,7 @@ Added to repository.
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="912"/>
             <l n="20" part="I">
-              Mitte me, inquam, 
+              Mitte me, inquam,
               <abbr expan="odiosus es">odiosu's</abbr>
               .
             </l>
@@ -3910,7 +3910,7 @@ Added to repository.
             <speaker>Strab.</speaker>
             <lb ed="TLN" n="955"/>
             <l>
-              Tu 
+              Tu
               <abbr expan="peregrinus es">peregrinu's</abbr>
               , hic &lt;ego&gt; habito: non cum zona ego ambulo:
             </l>

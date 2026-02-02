@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title n="Poen." type="work">Poenulus</title>
+        <title n="Poen.">Poenulus</title>
         <author>
           <persName xml:lang="en">Plautus</persName>
           <persName>
@@ -466,7 +466,7 @@ Added to repository.
             <l>nam tuae blanditiae mihi sunt, quod dici solet,</l>
             <lb ed="TLN" n="137"/>
             <l>
-              gerrae germanae, 
+              gerrae germanae,
               <foreign lang="greek">sai\ de\ kollu=rai lu/rai</foreign>
               .
             </l>
@@ -626,7 +626,7 @@ Added to repository.
           <sp who="#agorastocles">
             <speaker>Agor.</speaker>
             <l part="M">
-              Quid iis 
+              Quid iis
               <abbr expan="facturus es">facturu's</abbr>
               ?
             </l>
@@ -642,7 +642,7 @@ Added to repository.
           <sp who="#agorastocles">
             <speaker>Agor.</speaker>
             <l part="M">
-              Qui id 
+              Qui id
               <abbr expan="facturus es">facturu's</abbr>
               ?
             </l>
@@ -894,7 +894,7 @@ Added to repository.
           <sp who="#agorastocles">
             <speaker>Agor.</speaker>
             <l part="M">
-              Quid 
+              Quid
               <abbr expan="molestus es">molestu's</abbr>
               ?
             </l>
@@ -1349,7 +1349,7 @@ Added to repository.
           <sp who="#adelphasium">
             <speaker>Ad.</speaker>
             <l part="M">
-              Quid mihi 
+              Quid mihi
               <abbr expan="molestus es">molestu's</abbr>
               , opsecro?
             </l>
@@ -2259,7 +2259,7 @@ Added to repository.
             <speaker>Adv.</speaker>
             <lb ed="TLN" n="557"/>
             <l>
-              Itane? temptas an sciamus? non meminisse nos 
+              Itane? temptas an sciamus? non meminisse nos
               <abbr expan="ratus es">ratu's</abbr>
               ,
             </l>
@@ -6376,7 +6376,7 @@ Added to repository.
             <l part="M">Neque ego; si aurum mihi reddes meum,</l>
             <lb ed="TLN" n="1409"/>
             <l>
-              leno, quando ex nervo 
+              leno, quando ex nervo
               <abbr expan="emissus es">emissu's</abbr>
                — compingare in carcerem.
             </l>
